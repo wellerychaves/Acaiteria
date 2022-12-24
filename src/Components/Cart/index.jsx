@@ -44,11 +44,11 @@ const Cart = ({ finishOrder, setFinishOrder }) => {
 				<div className="status-div">
 					<div className="status-div_div">
 						<p>Valor:</p>
-						<span>R$ 12,00</span>
+						<span>{}</span>
 					</div>
 					<div className="status-div_div">
 						<p>Tempo de preparo:</p>
-						<span>7 minutos</span>
+						<span>{}</span>
 					</div>
 				</div>
 				<div className="status-div">
