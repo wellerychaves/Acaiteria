@@ -23,7 +23,6 @@ const App = () => {
 
 	useEffect(() => {
 		Object.keys(order).length === 3 && sendToDatabase();
-		console.log(orderNumber);
 	}, [order]);
 
 	useEffect(() => {
