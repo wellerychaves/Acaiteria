@@ -11,4 +11,4 @@ após instalar todas as dependencias, execute o comando para iniciar o projeto:
 ```
 
 O projeto atualmente depende do back-end para seu funcionamento normal que também só funciona local.
-Link para o repositório back-end do projeto: 
+Link para o repositório back-end do projeto: [AcaiteriaAPI](https://github.com/wellerychaves/AcaiteriaAPI)
